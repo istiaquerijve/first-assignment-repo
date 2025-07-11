@@ -44,4 +44,18 @@ nav ul{
     padding: 18px 35px;
     border-radius: 5px;
     align-items: center;
+    background-color: #4E47FF;
+}
+
+/* main styles */
+.section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.light{
+     color: #757575;
+}
+.img{
+    border-radius: 20px;
 }
