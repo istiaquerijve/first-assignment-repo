@@ -59,3 +59,12 @@ nav ul{
 .img{
     border-radius: 20px;
 }
+.items{
+    background-color: #d2d1f5;
+    margin: 50px 200px;
+    border-radius: 50px;
+}
+.item{
+    display: flex;
+    justify-content: space-around;
+}
