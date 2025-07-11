@@ -52,7 +52,7 @@ nav ul{
 .section{
     display: flex;
     justify-content: space-between;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .light{
      color: #757575;
@@ -90,4 +90,40 @@ nav ul{
 }
 .sub{
     margin-top: 200px;
+}
+.sec2{
+    margin-top: 200px;
+}
+.info{
+    background-color: bisque;
+    margin-top: 200px;
+    display: flex;   
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.info-title{
+    background-color: rgb(148, 102, 42);
+    display: flex;
+    gap: 100px;
+    padding: 130px 230px;
+    width: 50%;
+}
+input[type="text"], input[type="email"], textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    
+}
+#if{
+ font-size: 70px;
+    font-weight: bold;
+    color: #181818;
+    text-align: center;
+    margin-top: 50px;   
 }
