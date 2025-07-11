@@ -85,3 +85,9 @@ nav ul{
     justify-content: left;
     
 }
+.img-sub{
+    border-radius: 100px;
+}
+.sub{
+    margin-top: 200px;
+}
