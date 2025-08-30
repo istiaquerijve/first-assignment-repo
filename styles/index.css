@@ -33,7 +33,7 @@ nav ul{
     margin-top: 50px;
 }
 .header{
-    background-image: url(../../github/B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-image: url(./Assets/Hero-bg.png);
     padding-bottom: 150px;
 }
 .btn-primary{
